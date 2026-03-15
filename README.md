@@ -2,7 +2,7 @@
 
 Reproduce repository for the paper "3DGStream: On-the-fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos".
 
-## Bibtex
+## Reference
 ```
 @InProceedings{sun20243dgstream,
     author    = {Sun, Jiakai and Jiao, Han and Li, Guangyuan and Zhang, Zhanjie and Zhao, Lei and Xing, Wei},
